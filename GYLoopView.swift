@@ -32,8 +32,6 @@ class GYLoopView: UIView ,UIScrollViewDelegate{
     
     private var index = 0
     
-    private var isNetWork: Bool!
-    
     private var cachePath: NSString!
     
     private var pageControl: UIPageControl!
